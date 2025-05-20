@@ -18,5 +18,5 @@ def converter(func):
 def unchanged_name(name):
     """This function is decorated """
     return name
-A=unchanged_name('Name')
+A=unchanged_name('n')
 print(A)

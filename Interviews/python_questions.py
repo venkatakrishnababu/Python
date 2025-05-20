@@ -1,0 +1,2 @@
+S='abc'
+print(S)
