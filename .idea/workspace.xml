@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41439416-3207-413d-8819-409d058036a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python/DSA/Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interviews/python_questions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Dependency/depends.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Grouping/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Grouping/test_grouping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Ordering/Ordering_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Ordering/Ordering_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Ordering/ordering_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Ordering/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/Parallel_testing/test_parallel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixt/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixt/test_PC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixt/test_PE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixt/test_witness.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixtures_CLI/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixtures_CLI/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixtures_CLI/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/fixtures_CLI/test_command_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/parameterization/test_parameter_Auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/parameterization/test_parameterize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/pytest_basics_skipping/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/pytest_basics_skipping/test_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/pytest_frame/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/pytest_frame/test_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_frame_work/pytest_frame/test_selenium_Nauvkari_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/DSA/LIst Vs Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_files/decor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_files/decor_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_files/sort.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "venkatakrishnababu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/venkatakrishnababu/Python.git",
+    "accountId": "6a3a2a5f-948f-448e-80cb-b894b178535d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xXhOsq2NM0YZAJ8SsHRtIWqvgE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Array.executor": "Run",
+    "Python.LIst Vs Array.executor": "Run",
+    "Python.sort.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41439416-3207-413d-8819-409d058036a1" name="Changes" comment="" />
+      <created>1748090298932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748090298932</updated>
+    </task>
+    <servers />
+  </component>
+</project>
